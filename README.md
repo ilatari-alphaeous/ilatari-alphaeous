@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Alphaeous</h1>
-<h3 align="center">A Detailed-Oriented AI Data Specialist & Growth Marketing Analyst</h3>
+<h3 align="center">A Detail-oriented AI Data Specialist & Growth Marketing Analyst</h3>
 
-- 🔭 I’m currently working on **AI alignment workflows including fine-tuning SLMs, SFT, prompt engineering, red teaming, and creating high-quality datasets for RLHF/RLAIF pipelines.**
+- 🔭 I’m currently working on **AI output evaluation and advanced AI alignment workflows—including fine-tuning SLMs, SFT, prompt engineering, red teaming, and creating & annotating high-quality datasets for RLHF/RLAIF pipelines**
 
 - 🌱 I’m currently learning **Psychology**
 
