@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ialphaeous@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SaA1Mi2HnMbJf-b3iiyOBSpnlCPXMnNT/view?usp=drive_link](https://drive.google.com/file/d/1Ny8z_vTWTm0PYLk_sgLiWrMhvUuEqcLd/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SaA1Mi2HnMbJf-b3iiyOBSpnlCPXMnNT/view?usp=drive_link](https://drive.google.com/file/d/1SaA1Mi2HnMbJf-b3iiyOBSpnlCPXMnNT/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
