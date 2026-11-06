@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Cloud Computing/DevOps**
 
-- 👯 I’m looking to collaborate on [AI model evaluation, data labeling projects, and fine-tuning LLMs for data analytics](by emailing me at jalphaeous@gmail.com)
+- 👯 I’m looking to collaborate on [AI model evaluation, data labeling projects, and fine-tuning LLMs for data analytics](by emailing me at ialphaeous@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1hLxkXFd7MS55kMvx3G-WDKjk3uaJDtS4](https://drive.google.com/drive/folders/1hLxkXFd7MS55kMvx3G-WDKjk3uaJDtS4)](https://drive.google.com/drive/folders/1GsJDA4wxHLDUcCZqf-wiDZc6yEGd-_ug)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1hLxkXFd7MS55kMvx3G-WDKjk3uaJDtS4](https://drive.google.com/drive/folders/1hLxkXFd7MS55kMvx3G-WDKjk3uaJDtS4)
 
 - 📝 I regularly write articles on [https://www.fiverr.com/users/smartadams242/portfolio/](https://www.fiverr.com/users/smartadams242/portfolio/)
 
